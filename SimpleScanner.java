@@ -1,8 +1,8 @@
 /**
- * Write a description of class SimpleScanner here.
+ * A simple way to get string and numeric input.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author Jon Cooper
+ * @version 9/13/2018
  */
 
 import java.util.Scanner;
